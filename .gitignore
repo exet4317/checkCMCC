@@ -1,0 +1,7 @@
+*~
+*.ini
+*.o
+*.dat
+*.log
+*.out
+pwfile
